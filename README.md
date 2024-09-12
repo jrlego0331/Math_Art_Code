@@ -1,4 +1,4 @@
-![test2](https://github.com/user-attachments/assets/4d0626d0-4837-45f5-af65-57146e2bdbf1)
+![tst](https://github.com/jrlego0331/Math_Art_Code/blob/master/tst.gif)
 
 
 https://github.com/user-attachments/assets/3cbeabd4-4170-4e03-8068-d08e563561e9
