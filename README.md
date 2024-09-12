@@ -1,7 +1,9 @@
+![img test](https://github.com/jrlego0331/Math_Art_Code/blob/master/test.PNG)
+![img test](https://github.com/jrlego0331/Math_Art_Code/blob/master/test2.PNG)
+
+
+
 ![tst](https://github.com/jrlego0331/Math_Art_Code/blob/master/tst.gif)
-
-
-https://github.com/user-attachments/assets/3cbeabd4-4170-4e03-8068-d08e563561e9
 
 
 
