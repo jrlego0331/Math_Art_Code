@@ -2,7 +2,7 @@
 ![img test](https://github.com/jrlego0331/Math_Art_Code/blob/master/test2.PNG)
 
 
-
+![tst1](https://github.com/jrlego0331/Math_Art_Code/blob/master/tst1.gif)
 ![tst](https://github.com/jrlego0331/Math_Art_Code/blob/master/tst.gif)
 
 
